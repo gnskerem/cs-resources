@@ -1,4 +1,4 @@
-# 🚀 Awesome Learning Journey | CS Student Path
+# 🚀Öğrenme Yolculuğu | Bilgisayar Bilimleri Öğrencisi Yolu
 
 Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak gelişim sürecimde keşfettiğim, teknik yetkinliğimi artıran ve sektör standartlarında kabul görmüş en kaliteli kaynakların derlemesidir. 
 
