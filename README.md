@@ -1,9 +1,5 @@
 # 🚀 Awesome Learning Journey | CS Student Path
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
 Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak gelişim sürecimde keşfettiğim, teknik yetkinliğimi artıran ve sektör standartlarında kabul görmüş en kaliteli kaynakların derlemesidir. 
 
 ---
